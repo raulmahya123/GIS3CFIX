@@ -5,7 +5,7 @@
 
 ## Daftar Nilai Tugas
 
-| NPM      | Nama | TUGAS | 
+| NPM      | Nama | TUGAS 1 | 
 | ----------- | ----------- | ----------- |
 | 1214058      |Firda Yulianti |  |
 | 1214053      |Raul Mahya Komaran | 100 |
