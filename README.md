@@ -18,7 +18,7 @@
 | 1214078      |Maulana Imanulhaq Nurdiana | 100  |
 | 1214082      |Gregorius Bagaskara Balisa |  |
 | 1214075      |Maylinda Christy Yosefina Talan | 100  |
-| 1214064      |Adam Ghafara |  |
+| 1214064      |Adam Ghafara | 100 |
 | 1214063      |Shinta Raudita Octora Damayanti | 100  |
 | 1214045      |Farrel Wayendra Kumara Hamdani |  |
 | 1214073      |Salman Akbar Hasbullah | 100  |
